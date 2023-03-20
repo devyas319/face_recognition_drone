@@ -1,2 +1,2 @@
 # face_recognition_drone
-Face recognition in drone photoes
+Face recognition in drone images.
